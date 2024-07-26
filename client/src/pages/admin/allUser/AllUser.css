@@ -1,0 +1,11 @@
+.admin_link {
+  margin: 5px 5px;
+  padding: 5px;
+}
+.admin_link:nth-child(1) {
+  color: rgb(17, 103, 184);
+}
+
+.admin_link:nth-child(2) {
+  color: crimson;
+}
